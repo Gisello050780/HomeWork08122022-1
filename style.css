@@ -1,0 +1,12 @@
+
+.window{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    background-position: center;
+
+}
+.One{
+    width: 350px;
+    height: 350px;
+}
